@@ -1,0 +1,3 @@
+a={"proverb":"an apple keeps the"}
+a["proverb"]="an apple keeps the doctor away"
+print(a)

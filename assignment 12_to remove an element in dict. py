@@ -1,0 +1,3 @@
+example={"name":"simham","gender":"female","age":19}
+example.pop("gender")
+print(example)

@@ -1,0 +1,2 @@
+dict={"one":10,"two":20,"three":30}
+print(sum(dict.values()))
